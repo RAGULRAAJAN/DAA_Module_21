@@ -20,8 +20,8 @@ To write a python program to implement pattern matching on the given string usin
 ## Program:
 ```
 Program to implement the Pattern Matching.
-Developed by: SANJAY C
-Register Number:  212223240150
+Developed by: RAGUL RAAJAN T
+Register Number:  212223100043
 ```
 ```PY
 def KMPSearch(pat, txt):
